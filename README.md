@@ -21,8 +21,9 @@ I build web applications, utilities and tools for working with media.
 
 ## 🚀 Projects
 
-![Segmint](https://github.com/nick-yaruta/Segmint) - Project for convertint .mkv files to .hls without losted tracks.
-![Project C](#) - Secret project.
+
+* **[Segmint](https://github.com/nick-yaruta/Segmint)** - Project for convertint .mkv files to .hls without losted tracks.
+* **[Project C](#)** - Secret project.
 
 ---
 
